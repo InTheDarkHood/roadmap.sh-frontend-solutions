@@ -7,7 +7,7 @@ All of my attempted solutions to the [Roadmap.sh](https://roadmap.sh) Frotend Pr
 ## Completed Projects
 
 <p align="left">
-  <a href="./single-page-cv/featured.png">
+  <a href="./single-page-cv/index.html">
     <img width="48%" src="./single-page-cv/featured.png" alt="single page cv" />
   </a>
 </p>
