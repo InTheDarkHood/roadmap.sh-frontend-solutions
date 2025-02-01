@@ -6,7 +6,7 @@ All of my attempted solutions to the [Roadmap.sh](https://roadmap.sh) Frotend Pr
 
 ## Completed Projects
 
-1. ![Single-Page CV]()
+1. ![Single-Page CV](./single-page-cv/featured.png)
 
 ## How to use
 
