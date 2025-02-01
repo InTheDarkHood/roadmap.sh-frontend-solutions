@@ -4,6 +4,8 @@
 
 1. [Single-Page CV]()
 
-## Current Projects
+## Completed Projects
 
 1. ![Single-Page CV]()
+
+## How to use
