@@ -8,7 +8,6 @@ All of my attempted solutions to the [Roadmap.sh](https://roadmap.sh) Frotend Pr
 
 <p align="left">
   <a href="./single-page-cv/index.html">
-    Single-Page CV
     <img width="48%" src="./single-page-cv/featured.png" alt="single-page cv"/>
   </a>
 </p>
