@@ -1,6 +1,6 @@
 # Roadmap.sh - Frontend Solutions
 
-All of my attempted solutions to the [Roadmap.sh](https://roadmap.sh) Frotend Projects.
+All of my attempted solutions to the [Roadmap.sh](https://roadmap.sh) Frontend Projects.
 
 1. [Single-Page CV](https://roadmap.sh/projects/single-page-cv)
 
