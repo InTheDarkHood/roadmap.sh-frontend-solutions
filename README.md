@@ -4,6 +4,7 @@ All of my attempted solutions to the [Roadmap.sh](https://roadmap.sh) Frontend P
 
 1. [Single-Page CV](https://roadmap.sh/projects/single-page-cv)
 2. [Basic HTML Website](https://roadmap.sh/projects/basic-html-website)
+2. [Personal Portfolio](https://roadmap.sh/projects/portfolio-website)
 
 ## Completed Projects
 
@@ -13,6 +14,12 @@ All of my attempted solutions to the [Roadmap.sh](https://roadmap.sh) Frontend P
   </a>
   <a href="./basic-html-website/index.html">
     <img width="48%" src="./basic-html-website/featured.png" alt="basic html website"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="./personal-portfolio/index.html">
+    <img width="48%" src="./personal-portfolio/featured.png" alt="personal portfolio"/>
   </a>
 </p>
 
