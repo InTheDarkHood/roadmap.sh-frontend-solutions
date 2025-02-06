@@ -1,3 +1,13 @@
+:root {
+
+    --body-bg-color: rgb(22, 22, 26);
+    --body-font-color: white;
+
+    --link-color: white;
+    --link-hover-color: #acacac;
+
+}
+
 *, *::before, *::after {
 
     margin: 0;
@@ -8,33 +18,51 @@
 
 body {
 
-    color: white;
-    background-color: rgb(22, 22, 26);
+    color: var(--body-font-color);
+    background-color: var(--body-bg-color);
 
 }
 
 header {
 
+    
     display: flex;
     flex-direction: column;
     justify-content: center;
     text-align: center;
-    height: 300px;
+    height: 400px;
 
 }
 
 nav {
 
+    background: transparent;
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
+    padding-inline: 1rem;
+    padding-top: 0.5rem;
+
+}
+
+nav a {
+
+    color: var(--link-color);
+    text-decoration: none;
+
+
+}
+
+nav a:hover {
+
+    transition: 0.5s;
+    color: var(--link-hover-color);
 
 }
 
 #main_content {
 
     display: flex;
-    justify-content: space-evenly;
     flex-wrap: wrap;
     flex-direction: row;    
 
