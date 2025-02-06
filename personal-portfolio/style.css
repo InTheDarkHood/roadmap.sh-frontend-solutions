@@ -191,7 +191,6 @@ nav a:hover {
     
 }
 
-
 #education h4 {
 
     padding-inline: 1rem;
@@ -212,13 +211,38 @@ nav a:hover {
 
 }
 
+#reviews {
+
+    margin: 1rem;
+
+}
+
 #review_container {
 
     display: flex;
     justify-content: space-evenly;
     flex-grow: 1;
     flex-wrap: wrap;
-    flex-direction: row;  
+    flex-direction: row; 
+    padding: 1rem; 
+
+}
+
+.review_block {
+
+    width: 25%;
+    padding: 1.2rem;
+    border-radius: 25px;
+    background-color: var(--link-hover-color);
+    color: var(--header-bg-color);
+    font-weight: bold;
+
+}
+
+.review_block .author {
+
+    color: var(--link-color);
+    font-size: 0.8rem;
 
 }
 
