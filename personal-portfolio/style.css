@@ -26,5 +26,15 @@ nav {
 
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
+
+}
+
+#main_content {
+
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    flex-direction: row;    
 
 }
