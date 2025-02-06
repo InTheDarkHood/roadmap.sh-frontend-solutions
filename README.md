@@ -12,10 +12,10 @@ All of my attempted solutions to the [Roadmap.sh](https://roadmap.sh) Frontend P
     <img width="48%" src="./single-page-cv/featured.png" alt="single-page cv"/>
   </a>
   <a href="./basic-html-website/index.html">
-    <img width="48%" src="./single-page-cv/featured.png" alt="basic html website"/>
+    <img width="48%" src="./basic-html-website/featured.png" alt="basic html website"/>
   </a>
 </p>
 
 ## How to use
 
-Simply download the folder and open the respective index.html file in your browser of choice.
+In order to view the project, download the respective folder of the project and open the index.html file in the browser of your choice. All filed related to the respective project will be in it's repsective folder unless specified otherwise.
