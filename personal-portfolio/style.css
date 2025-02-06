@@ -248,6 +248,9 @@ nav a:hover {
 
 footer {
 
+    background-color: var(--header-bg-color);
+    padding: 1.2rem;
+    font-size: 0.8rem;
     text-align: center;
 
 }
