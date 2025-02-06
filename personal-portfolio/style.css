@@ -106,12 +106,41 @@ nav a:hover {
 
 }
 
+#main_content h2 {
+
+    padding-block: 1rem;
+    padding-inline: 1rem;
+
+}
+
 #projects {
 
-    border: 1px solid rgb(22, 22, 26);
-    padding: 1.2rem;
+    border: 1px solid var(--body-bg-color);
     flex-grow: 1;
     
+}
+
+#projects li {
+
+    width: 100%;
+    padding: 0.5rem;
+    border-bottom: 1px solid var(--body-bg-color);
+
+}
+
+#projects a {
+
+    text-decoration: none;
+    color: var(--content-font-color);
+    
+
+}
+
+#projects a:hover {
+
+    color: var(--link-hover-color);
+    transition: 0.5s;
+
 }
 
 #projects ul {
@@ -123,7 +152,6 @@ nav a:hover {
 #work_experience {
 
     border: 1px solid rgb(22, 22, 26);
-    padding: 1.2rem;
     flex-grow: 2;
     
 }
@@ -131,7 +159,6 @@ nav a:hover {
 #education {
 
     border: 1px solid rgb(22, 22, 26);
-    padding: 1.2rem;
     flex-grow: 1;
     
 }
