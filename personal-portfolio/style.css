@@ -6,6 +6,10 @@
     --link-color: white;
     --link-hover-color: #acacac;
 
+    --header-banner: ;
+    --header-bg-color: rgb(34, 34, 48);
+    --header-font-color: white;
+
 }
 
 *, *::before, *::after {
@@ -25,7 +29,8 @@ body {
 
 header {
 
-    
+    color: var(--header-font-color);
+    background-color: var(--header-bg-color);
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -36,12 +41,12 @@ header {
 
 nav {
 
-    background: transparent;
+    background-color: transparent;
     display: flex;
     justify-content: space-between;
+    align-items: center;
     flex-wrap: wrap;
-    padding-inline: 1rem;
-    padding-top: 0.5rem;
+    padding: 1rem;
 
 }
 
@@ -50,13 +55,29 @@ nav a {
     color: var(--link-color);
     text-decoration: none;
 
-
 }
 
 nav a:hover {
 
     transition: 0.5s;
     color: var(--link-hover-color);
+
+} 
+
+#profile {
+
+    flex-wrap: wrap;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 1rem;
+    align-items: center;
+
+}
+
+#profile img {
+
+    border-radius: 15px;
 
 }
 
