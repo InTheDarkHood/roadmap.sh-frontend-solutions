@@ -17,7 +17,7 @@ All of my attempted solutions to the [Roadmap.sh](https://roadmap.sh) Frontend P
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="./personal-portfolio/index.html">
     <img width="48%" src="./personal-portfolio/featured.png" alt="personal portfolio"/>
   </a>
