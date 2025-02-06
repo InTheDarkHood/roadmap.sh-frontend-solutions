@@ -6,7 +6,7 @@
     --link-color: white;
     --link-hover-color: #acacac;
 
-    --header-banner: ;
+    --header-banner: url(./banner.png); /* https://www.transparenttextures.com Cubes by Sander Ottens */
     --header-bg-color: rgb(34, 34, 48);
     --header-font-color: white;
 
@@ -29,13 +29,20 @@ body {
 
 header {
 
+    background-image: var(--header-banner);
     color: var(--header-font-color);
     background-color: var(--header-bg-color);
     display: flex;
     flex-direction: column;
     justify-content: center;
     text-align: center;
-    height: 400px;
+    height: 450px;
+
+}
+
+header h1 {
+
+    font-size: 3rem;
 
 }
 
@@ -77,7 +84,8 @@ nav a:hover {
 
 #profile img {
 
-    border-radius: 15px;
+    border-radius: 15%;
+    width: 45px;
 
 }
 
