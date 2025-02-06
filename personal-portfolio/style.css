@@ -38,3 +38,13 @@ nav {
     flex-direction: row;    
 
 }
+
+#review_container {
+
+    display: flex;
+    justify-content: space-evenly;
+    flex-grow: 1;
+    flex-wrap: wrap;
+    flex-direction: row;  
+
+}
